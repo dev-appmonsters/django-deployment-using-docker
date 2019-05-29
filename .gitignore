@@ -1,0 +1,24 @@
+*.pyc
+static/*
+postr/settings/local.py
+postr/settings/__init__.py
+settings/__init__.py
+nbproject
+keys/keys.pub
+media/*
+venv/*
+*.db
+.idea/*
+.DS_Store
+*.rdb
+*.log
+
+# log files
+timelog.log
+
+
+
+timelog.log
+timelog.log.1
+timelog.log.2
+timelog.log.3
